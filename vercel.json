@@ -1,0 +1,7 @@
+{
+  "framework": "angular",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/omar-portfolio/browser",
+  "installCommand": "npm install",
+  "cleanUrls": true
+}
