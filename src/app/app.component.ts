@@ -46,7 +46,7 @@ type Theme = 'dark' | 'light';
             <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
             <div class="photo-frame"><img src="https://avatars.githubusercontent.com/u/210287380?v=4" alt="Omar Atef profile photo" fetchpriority="high"><div class="photo-caption"><span class="caption-dot"></span> {{ t().backendLabel }}</div></div>
             <div class="floating-card card-top"><span class="mini-icon">⌘</span><span>Building APIs<br><small>One endpoint at a time</small></span></div>
-            <div class="floating-card card-bottom"><span class="code-mark">{ }</span><span>Backend<br><small>Developer</small></span></div>
+            <div class="floating-card card-bottom"><span class="code-mark">{{ '{ }' }}</span><span>Backend<br><small>Developer</small></span></div>
             <span class="spark spark-a">✳</span><span class="spark spark-b">✦</span>
           </div>
         </section>
